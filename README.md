@@ -18,7 +18,7 @@ The Python Flask based microservices project is composed of the following 4 proj
 To launch the end-to-end microservices application perform the following:
 
 ### Step 1.
-Navigate into the ```frontend`` directory, and confirm the presence of the ```docker-compose.deploy.yml``` file:
+Navigate into the ```frontend``` directory, and confirm the presence of the ```docker-compose.deploy.yml``` file:
 ```
 cd frontend
 ls -la
